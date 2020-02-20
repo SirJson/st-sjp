@@ -3,6 +3,7 @@
 [st is a simple terminal emulator for X](https://st.suckless.org/) which sucks less.
 
 This is a version of latest master branch @ https://git.suckless.org/st as of today (commit: 51e19ea11dd42eefed1ca136ee3f6be975f618b1) with patches applied that I found useful. 
+
 _(+ some very minor tweaks, patching can get messy and I use st together with Powerlevel10k so it is preconfigured for that)_
 
 Since this is based on a not yet released version of st with a bunch of diffs on top this is more or less unsupported.
